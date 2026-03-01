@@ -2,57 +2,53 @@
 
 # 👨‍💻 Abhigyan Srivastava
 
-**Full-Stack Developer | Cloud Architecture | AI Enthusiast**
+### Full-Stack Developer | Cloud Architecture | AI Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=Building+scalable+cloud+solutions;MERN+Stack+Developer;AWS+%26+Cloud+Architecture;Python+%26+ML+Enthusiast;Summer+2026+Cloud+Intern+Ready)](https://git.io/typing-svg)
+> Building scalable cloud solutions | MERN Stack Developer | AWS & Cloud Architecture 
+> Python & ML Enthusiast | Summer 2026 Cloud Intern Ready
 
 ---
 
 ## 🚀 Current Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **File-Wizard** | Cloud-native file conversion with AWS Lambda | AWS, Serverless, React |
-| **Interndiary** | Intern management platform | MERN, MongoDB, Express |
-| **EchoMail** | Bulk email service on AWS | Python, Event-driven, AWS SQS |
+- **File-Wizard** — Cloud-native file conversion service built on AWS Lambda
+- **Interndiary** — Intern management & tracking platform  
+- **EchoMail** — Bulk email service with event-driven AWS architecture
 
 ---
 
 ## 🛠️ Tech Stack
 
-```
-Languages:  Python, JavaScript, Java, SQL
-Frontend:   React, Next.js, Tailwind CSS
-Backend:    Node.js, Express, Django
-Cloud:      AWS (Lambda, S3, EC2, RDS), Terraform
-Tools:      Docker, Jenkins, Git, MongoDB, PostgreSQL
-```
+**Languages:** Python • JavaScript • Java • SQL
+
+**Frontend:** React • Next.js • Tailwind CSS
+
+**Backend:** Node.js • Express • Django  
+
+**Cloud & DevOps:** AWS (Lambda, S3, EC2, RDS) • Terraform • Docker • Jenkins
+
+**Databases:** MongoDB • PostgreSQL • Firebase
 
 ---
 
-## 📊 GitHub Statistics
+## 🎯 What I'm Focusing On
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbhigyanSr&theme=nord&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" width="45%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AbhigyanSr&theme=nord&hide_border=true" alt="GitHub Streak" width="45%" />
-
----
-
-## 🎯 Goals & Focus
-
-- 🏔️ **Mountain Views** + *Chill Beats* = Peak Productivity
-- ☁️ Mastering **Cloud Architecture** & **DevOps**
-- 🤖 Exploring **AI/ML** implementations
-- 💼 Targeting **Summer 2026 Cloud Internship**
+- ☁️ Cloud Architecture & DevOps
+- 🤖 AI/ML Implementation  
+- 💼 Building production-ready applications
+- 🏔️ Learning + Mountain views + Chill beats
 
 ---
 
-## 🔗 Connect With Me
+## 📌 Quick Facts
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/AbhigyanSr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
+- 💡 Passionate about solving real-world problems with code
+- 🌍 Open to collaboration and learning
+- 🎓 Constantly exploring new technologies
+- 🔗 Check out my repositories for more projects
 
 ---
 
-**_"The best way to predict the future is to invent it."_** – Alan Kay
+**"The best way to predict the future is to invent it."** — Alan Kay
 
 </div>
